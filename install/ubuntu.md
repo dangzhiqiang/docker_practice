@@ -64,7 +64,7 @@ $ sudo apt-get update
 
 ##### 高于 12.04 LTS的版本
 
--    -    Ubuntu Xenial 16.04 (LTS)
+-    Ubuntu Xenial 16.04 (LTS)
 -    Ubuntu Wily 15.10
 -    Ubuntu Trusty 14.04 (LTS)
 
